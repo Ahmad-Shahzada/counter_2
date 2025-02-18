@@ -6,7 +6,7 @@ const Parent = () => {
 
   function counters() {
     a.current = a.current + 1
-    console.log(`${a.current}`);
+    console.log(`Button Clicked: ${a.current}`);
   }
 
   return (

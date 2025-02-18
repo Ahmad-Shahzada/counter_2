@@ -22,6 +22,7 @@ const Parent = () => {
         >
           Click Me
         </button>
+        <p className="text-white font-bold text-lg mt-6 drop-shadow-lg">Check the console for updates.</p>
       </div>
     </div>
   );
